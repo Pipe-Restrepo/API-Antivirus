@@ -3558,11 +3558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Felipe\\NODO\\ProyectosNODO\\Gates\\PROFUNDIZACION\\API-Antivirus\\API-Antivirus\\Api-Antivirus.csproj",
+      "projectUniqueName": "C:\\Felipe\\NODO\\ProyectosNODO\\Gates\\CLOUD NATIVE\\API-Antivirus\\Api-Antivirus\\Api-Antivirus.csproj",
       "projectName": "Api-Antivirus",
-      "projectPath": "C:\\Felipe\\NODO\\ProyectosNODO\\Gates\\PROFUNDIZACION\\API-Antivirus\\API-Antivirus\\Api-Antivirus.csproj",
+      "projectPath": "C:\\Felipe\\NODO\\ProyectosNODO\\Gates\\CLOUD NATIVE\\API-Antivirus\\Api-Antivirus\\Api-Antivirus.csproj",
       "packagesPath": "C:\\Users\\Juan Felipe Restrepo\\.nuget\\packages\\",
-      "outputPath": "C:\\Felipe\\NODO\\ProyectosNODO\\Gates\\PROFUNDIZACION\\API-Antivirus\\API-Antivirus\\obj\\",
+      "outputPath": "C:\\Felipe\\NODO\\ProyectosNODO\\Gates\\CLOUD NATIVE\\API-Antivirus\\Api-Antivirus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan Felipe Restrepo\\AppData\\Roaming\\NuGet\\NuGet.Config"

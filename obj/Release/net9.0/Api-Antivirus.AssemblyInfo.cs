@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api-Antivirus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c88ab0e4d787a67a8de0730899143c8e6803710")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b2d2d1d0dddc582435dfdedbb3ddbf4f62e4295")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api-Antivirus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api-Antivirus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
