@@ -21,7 +21,7 @@ jobs:
       - name: Set up .NET Core
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: 'v9.0.200' # Specify the .NET version you want to use
+          dotnet-version: 'v9.0' # Specify the .NET version you want to use
 
       - name: Build with dotnet
         run: dotnet build --configuration Release
