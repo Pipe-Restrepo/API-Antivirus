@@ -4,6 +4,7 @@ using Api_Antivirus.Services;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Cryptography;
 using System.Text;
+
 namespace Api_Antivirus.Controllers
 {
     [Route("api/auth")]
