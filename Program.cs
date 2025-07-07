@@ -23,6 +23,9 @@ builder.Services.AddSwaggerGen();
 
 // JWT Authentication
 var jwtKey = builder.Configuration["Jwt:Key"];
+var jwtAudience = builder.Configuration["Jwt:Audience"];
+var jwtIssuer = builder.Configuration["Jwt:Issuer"];
+
 if (!string.IsNullOrEmpty(jwtKey))
 {
     builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
